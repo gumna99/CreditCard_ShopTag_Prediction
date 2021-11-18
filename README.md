@@ -1,5 +1,5 @@
 # CreditCard_ShopTag_Prediction
-## predict top-3 of shop tag
+predict top-3 of shop tag
 
 [玉山人工智慧公開挑戰賽2021冬季賽 - 信用卡消費類別推薦](https://tbrain.trendmicro.com.tw/Competitions/Details/18)
 
